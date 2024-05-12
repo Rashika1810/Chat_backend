@@ -1,0 +1,6 @@
+# dependies
+/node_modules
+
+# secret
+.env
+
